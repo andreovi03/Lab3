@@ -1,0 +1,37 @@
+*{
+    font-family: Raleway;
+}
+
+h3{
+    width: 750px;
+    float: left;
+}
+
+button{
+    margin-top: 10px;
+    background-color: rgb(239, 21, 21);
+    font-family: Roboto Regular;
+    font-size: 18px;
+    border-radius: 5px;
+    border-color: transparent;
+    height: 45px;
+    width: 150px;
+    color: white;
+    margin-left: 70px;
+
+}
+
+.card{
+    padding-left: 12%;
+    margin-top: 100px;
+}
+
+#onlinegames{
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
+#onlinegames img{
+    width: 1115px;
+}
+

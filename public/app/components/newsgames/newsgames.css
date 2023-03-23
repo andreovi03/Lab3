@@ -1,0 +1,30 @@
+#games{
+    display: flex;
+    flex-direction: column;
+    justify-content:space-between;
+    border-radius: 5px;
+    font-family: Raleway;
+    font-size: 10px;
+    float: left;
+    margin-top: 60px;
+    margin-bottom: 100px;
+    margin-left: 100px;
+    width: 250px;
+    height: 230px;
+}
+
+button{
+    width: 120px;
+    background-color: transparent;
+    color: rgb(182, 0, 0);
+    left: 0%;
+    border: none;
+    font-family: Raleway;
+    font-family: 15px;
+    
+}
+
+h2{
+    font-size: 16px;
+    font-family: Raleway;
+}

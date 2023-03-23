@@ -1,0 +1,37 @@
+*{
+    font-family: Raleway;
+}
+
+img{
+    padding-left: 12%;
+    width: 1115px;
+    height: 355px;
+}
+h1{
+    padding-left: 12%;
+}
+
+h2{
+    padding-left: 12%;
+    padding-right: 35px;
+}
+
+button{
+    position: absolute;
+    left: 600px;
+    top: 980px;
+    margin-top: 10px;
+    background-color: rgb(239, 21, 21);
+    font-family: Roboto Regular;
+    font-size: 18px;
+    border-radius: 5px;
+    border-color: transparent;
+    height: 45px;
+    width: 130px;
+    color: white;
+
+}
+
+section{
+    width: 100%;
+}

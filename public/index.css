@@ -1,0 +1,53 @@
+header{
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    width: auto;
+    font-family: museo-sans, Montserrat ;
+    color: #464646;
+    font-size: 14px;
+    position: fixed;
+    width: 100%;
+    margin: 0%;
+}
+
+.boxOptions{
+    width: 1000px;
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    align-items: center;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.option{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+
+}
+
+.optiong{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+
+}
+
+.sec2{
+    display: flex;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    height: 35px;
+}
+
+h2{
+    font-family: Raleway;
+    color: rgb(83, 83, 83);
+    font-size: 15px;
+    width: 130px;
+}
